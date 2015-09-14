@@ -1,0 +1,127 @@
+html, body{
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.7;
+    background-color: #eeefe9;
+}
+h1, h2, h3, h4{
+    font-family: 'Abel', sans-serif;   
+}
+b, strong{
+    font-weight: 400;
+}
+
+.spec{
+    margin-top: 50px;
+}
+
+.main h2{
+    font-size: 35px;
+}
+.main h1{
+    padding-top: 70px;
+    font-size: 50px;
+    color: #276da8;
+}
+
+.coleur{
+    display: table;
+    background-color: white;
+    overflow: hidden;
+}
+
+#divStatus{
+    color:white;
+    align-content: center;
+    margin-top: 50px;
+    background-color: #276da8;
+    text-align: center;
+}
+
+.left-side {
+    background-color: #2e6da4;
+    float: none;
+    display: table-cell;
+    border: 1px solid;
+      padding-bottom: 1000px;
+  margin-bottom: -1000px;
+  height: 100%;
+    clear:both;
+}
+
+.mid-side {
+    background-color: black;
+    float: none;
+    color: ghostwhite;
+    display: table-cell;
+    border: 1px solid;
+  padding-bottom: 1000px;
+  margin-bottom: -1000px;
+  height: 100%;
+    clear:both;
+}
+
+.right-side {
+    background-color: white;
+    color:#276da8 ;
+    float: none;
+    display: table-cell;
+    border: 1px solid;
+    padding-bottom: 1000px;
+    margin-bottom: -1000px;
+    height: 100%;
+    clear:both;
+}
+
+.right-side a{
+    padding: 20px;
+}
+
+.sweeet{
+    background: rgba(47, 79, 79, 0.5);
+    width:inherit;
+}
+
+.admin{
+    font-size: 30px;
+    padding: 20px;
+    color:black;
+}
+
+.edit{
+    float: right;
+}
+
+#old_nh{
+    color: #005195;
+}
+
+.text-muted{
+    color: #e9e6df;
+    font-weight: 100;
+}
+.tpad{
+    padding-top: 20px;
+}
+
+.login{
+    background-color: #276da8;
+    padding: 70px 30px 50px;
+    width:300px;
+    height: 400px;
+}
+.outerlogin{
+    width: 300px;
+    padding: 70px 30px 50px;
+    
+}
+
+hr {
+    border-top: 1px solid #c9c9c9;   
+}
+
+
+
+
+
