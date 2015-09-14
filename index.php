@@ -10,7 +10,7 @@ require_once 'header.php';
     if ($user == "" || $pass == "")
         $error = "Not all fields were entered<br>";
     else
-//"Software Engineering"
+    //"Software Engineering"
     {
       $result = queryMySQL("SELECT username,password FROM Credentials
         WHERE username='$user' AND password='$pass'");
