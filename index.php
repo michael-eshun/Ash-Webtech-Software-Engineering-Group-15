@@ -29,7 +29,7 @@ require_once 'header.php';
       }
     }
   }
-
+// This is a status message on master branch
 echo <<<_END
 <!DOCTYPE html>
 <html lang="en">
