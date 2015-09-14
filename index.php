@@ -29,8 +29,7 @@ require_once 'header.php';
             "click here</a> to continue.<br><br>");
       }
     }
-  }
-// This is a status message on master branch
+  } // This is status message on test1
 echo <<<_END
 <!DOCTYPE html>
 <html lang="en">
