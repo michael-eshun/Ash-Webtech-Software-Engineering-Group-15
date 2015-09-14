@@ -15,6 +15,7 @@ require_once 'header.php';
       $result = queryMySQL("SELECT username,password FROM Credentials
         WHERE username='$user' AND password='$pass'");
 
+//About Us
       if ($result->num_rows == 0)
       {
         $error = "<span class='error'>Username/Password
